@@ -49,7 +49,7 @@ NUM_PAGES: 4
 
 ## Future Use and Outcomes
 ### Future Enhancements
-- **Support for Multiple Job Profiles and Locations**: Extend the script to handle given keyword profiles and locations in a single run.
+- **Support for Multiple Kewyword content and Locations**: Extend the script to handle given keyword profiles and locations in a single run.
 - **Parallel Processing**: Implement parallel processing to speed up the data extraction process.
 - **Enhanced Error Handling**: Improve error handling to make the script more robust against unexpected webpage changes.
 - **Data Enrichment**: Integrate additional data sources to enrich the extracted kryword information.
